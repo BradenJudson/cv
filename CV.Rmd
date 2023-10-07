@@ -39,10 +39,6 @@ library(vitae); library(tibble); library(pagedown)
 ```
 
 # Aside
-
-<img src="logos/ocwa.jpg" style="float: left; width:250px; 
-height:172px; border:1px solid black;"/>  
-
 ## Contact Info {#contact}
 
 [BradenJudon95\@gmail.com](mailto:BradenJudon95@gmail.com){.email}
@@ -162,8 +158,8 @@ N/A
 04/2019 - 08/2019
 
 -   Monitoring the survival, reproduction, and behaviour of Western
-    Bluebirds
--   Coordinating volunteers for stewardship and restoration activities
+    Bluebirds while coordinating a team of volunteers for stewardship 
+    and restoration activities
 -   Drafting technical reports and writing grant applications
 
 ### Research Assistant
@@ -177,8 +173,7 @@ N/A
 04/2018 - 09/2018
 
 -   Conducting experimental aquaculture techniques for sturgeon eggs,
-    larvae and juveniles
--   Working independently on developing physiology experiments
+    larvae and juveniles and conducting physiology experiments
 
 ### Field Technician
 
@@ -190,14 +185,38 @@ N/A
 
 -   Drafting permits and reports for ecological restoration and
     monitoring projects
--   Safely performing remote field work inventorying salmonids and fish
+-   Safely performing remote field work inventorying salmonids and
     assessing fish habitats throughout BC
+
+## Publications {data-icon="NA"}
+
+### Age-composition, size, migration timing, and estimation of smolt to adult survival of natural-origin Sockeye Salmon (*Oncorhynchus nerka*) in the Wenatchee River (WA) watershed (1997 - 2019)
+
+Canadian Manuscript Report of Fisheries and Aquatic Sciences: 3269: xii + 43p.
+
+N/A
+
+2023
+
+**Judson, B.J.**, Willard, C., and Stiff, H.
+
+### Together for Wildlife Goal 2, Action 6: A Community Science Framework for Together for Wildlife.
+
+Available from the Government of British Columbia's [Together for
+Wildlife - Goal 2
+webpage](https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/wildlife/together-for-wildlife/implementation/goal-2).
+
+N/A
+
+2023
+
+**Judson, B.J.**, Carr, J.K., and Starzomski, B.M.
 
 ## Publications in Preparation {data-icon="NA"}
 
 ### The role of neutral and adaptive evolutionary processes on patterns of genetic diversity across small cave-dwelling populations of Icelandic Arctic charr, *Salvelinus alpinus*
 
-Molecular Ecology
+Molecular Ecology (Manuscript ID: MEC-23-0958)
 
 N/A
 
@@ -217,17 +236,6 @@ N/A
 
 Akenhead, S.A., Stiff, H., **Judson, B.J**, and Ogden, A.D
 
-### Age-composition, size, migration timing, and estimation of smolt to adult survival of natural-origin Sockeye Salmon (*Oncorhynchus nerka*) in the Wenatchee River (WA) watershed (1997 - 2019)
-
-Canadian Manuscript Report of Fisheries and Aquatic Sciences
-
-N/A
-
-2023\
-*in prep*
-
-**Judson, B.J.**, Willard, C., Stiff, H., and Ogden, A.
-
 ### Osoyoos Lake Sockeye Salmon (*Oncorhynchus nerka*) recruit abundance, adult age composition, and marine survival (1985 - 2019)
 
 Canadian Manuscript Report of Fisheries and Aquatic Sciences
@@ -238,20 +246,6 @@ N/A
 *in prep*
 
 Bailey, C.J., Stiff, H.S., **Judson, B.J.**, and Ogden, A.
-
-## Publications {data-icon="NA"}
-
-### Together for Wildlife Goal 2, Action 6: A Community Science Framework for Together for Wildlife.
-
-Available from the Government of British Columbia's [Together for
-Wildlife - Goal 2
-webpage](https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/wildlife/together-for-wildlife/implementation/goal-2).
-
-N/A
-
-2023
-
-**Judson, B.J.**, Carr, J.K., and Starzomski, B.M.
 
 ## Presentations {data-icon="NA" data-concise="true"}
 
