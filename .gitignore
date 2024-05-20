@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-*.Rmd
+*.Rproj
 *.html
 **.png
 CV_files/
