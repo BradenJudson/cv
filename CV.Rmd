@@ -4,9 +4,10 @@ author: Braden Judson
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    self_contained: false
-knit: pagedown::chrome_print
-
+    self_contained: true
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 ```{css, echo=FALSE}
@@ -39,6 +40,7 @@ library(vitae); library(tibble); library(pagedown)
 ```
 
 # Aside
+
 ## Contact Info {#contact}
 
 [BradenJudon95\@gmail.com](mailto:BradenJudon95@gmail.com){.email}
@@ -112,13 +114,23 @@ N/A
 
 ### Biologist
 
-Department of Fisheries and Oceans Canada, Conservation Genetics and Physiology Laboratory
+Department of Fisheries and Oceans Canada, Conservation 'Omics Laboratory
 
 N/A
 
 11/23 - Current
 
--   Conducting bioinformatics analyses on multiple large-scale genomic and transcriptomic datasets centered around the conservation and management of Pacific salmonids
+-   Conducting bioinformatics analyses on multiple large-scale genomic
+    and transcriptomic datasets centered around the conservation and
+    management of Pacific salmonids
+
+### Ecological Reserve Warden (Volunteer)
+
+BC Parks at the Yellowpoint Bog Ecological Reserve
+
+N/A
+
+08/24 - Current
 
 ### Aquatic Biologist
 
@@ -129,10 +141,10 @@ N/A
 
 09/2022 - 11/2023
 
--   Tidying, managing, and analyzing large and unwieldy fish population
-    and limnology datasets
--   Drafting and editing technical documents, reports and research
-    manuscripts
+-   Modelling hydrological and population ecology time series data and 
+    developing simple forecasting tools (e.g., scripts, R Shiny Apps)
+-   Drafting and editing technical documents and research manuscripts for 
+    internal DFO publications and the Canadian Science Advisory Secretariat
 
 ### Field Naturalist
 
@@ -167,7 +179,7 @@ N/A
 04/2019 - 08/2019
 
 -   Monitoring the survival, reproduction, and behaviour of Western
-    Bluebirds while coordinating a team of volunteers for stewardship 
+    Bluebirds while coordinating a team of volunteers for stewardship
     and restoration activities
 -   Drafting technical reports and writing grant applications
 
@@ -201,17 +213,20 @@ N/A
 
 ### The role of neutral and adaptive evolutionary processes on patterns of genetic diversity across small cave-dwelling populations of Icelandic Arctic charr, *Salvelinus alpinus*
 
-Ecology and Evolution, 14:e11363, [DOI: 10.1002/ece3.11363](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11363)
+Ecology and Evolution, 14:e11363, [DOI:
+10.1002/ece3.11363](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11363)
 
 N/A
 
 2024
 
-**Judson, B.J.**, Kristjánsson, B.K., Leblanc, C. A-L., and Ferguson, M.M.
+**Judson, B.J.**, Kristjánsson, B.K., Leblanc, C. A-L., and Ferguson,
+M.M.
 
 ### Age-composition, size, migration timing, and estimation of smolt to adult survival of natural-origin Sockeye Salmon (*Oncorhynchus nerka*) in the Wenatchee River (WA) watershed (1997 - 2019)
 
-Canadian Manuscript Report of Fisheries and Aquatic Sciences: 3269: xii + 43p.
+Canadian Manuscript Report of Fisheries and Aquatic Sciences: 3269:
+xii + 43p.
 
 N/A
 
@@ -232,13 +247,6 @@ N/A
 **Judson, B.J.**, Carr, J.K., and Starzomski, B.M.
 
 ## Publications in Preparation {data-icon="NA"}
-
-N/A
-
-2023\
-*in prep*
-
-**Judson, B.J.**, Kristjánsson, B., Leblanc, C., and Ferguson, M.
 
 ### Reconstruction of parr age composition for Sockeye Salmon (*Oncorhynchus nerka*) in Osoyoos Lake, Canada
 
@@ -261,7 +269,6 @@ N/A
 *in prep*
 
 Bailey, C.J., Stiff, H.S., **Judson, B.J.**, and Ogden, A.
-
 
 ## Presentations {data-icon="NA" data-concise="true"}
 
